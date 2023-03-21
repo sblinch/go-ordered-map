@@ -72,7 +72,7 @@ func main() {
 }
 ```
 
-An `OrderedMap`'s keys must implement `comparable`, and its values can be anything, for example:
+An `OrderedMap`'s keys must implement `constraints.Ordered`, and its values can be anything, for example:
 
 ```go
 type myStruct struct {

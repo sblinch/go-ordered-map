@@ -7,6 +7,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/mailru/easyjson v0.7.7
 	github.com/stretchr/testify v1.8.1
+	golang.org/x/exp v0.0.0-20230315142452-642cacee5cc0
 )
 
 require (
